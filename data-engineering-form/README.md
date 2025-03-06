@@ -4,7 +4,6 @@ This is a web application for a Data Engineer Training Admission Form. It includ
 
 ## How to Run Locally
 
-1. Clone the repository:
+1. Navigate to the `data-engineering-form` folder:
    ```bash
-   git clone https://github.com/your-username/data-engineering-form.git
-   cd data-engineering-form
+   cd TheBasicTeacher/data-engineering-form
